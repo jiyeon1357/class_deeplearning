@@ -28,3 +28,16 @@ https://www.dropbox.com/sh/9ylm5nwnaxxgyjj/AAC3OsCJMGnpLl-n1A80q-Cja?dl=0
      - AI hub 공개데이터 
 https://aihub.or.kr/open_data_board?field_data_category_target_id_1=52&combine=&page=0 
 한국어 자연어 처리 데이터셋 : https://littlefoxdiary.tistory.com/42
+
+* 역량수준 체크리스트
+1) 전처리 (수행한 전처리 기법 요약)
+2) 한글 전처리
+3) 단어빈도 처리
+4) 단어분포 처리 ( 시각화, 예. wordcloud 등)
+5) 수행 task 이해
+6) 자료 구조, 구성 이해
+7) 기본 ml 기법 적용(적용한 기법 check, 예. naive bayes, logistic regression 등)
+8) 적용 모형
+9) 참조 논문
+10) 텍스트 수집(크롤링) 기법 적용  (xml, html 등 기반 사이트에서 python bs4, selenium 등, R에서 xpath, get등)
+11) 자율역량 추가
